@@ -1,24 +1,25 @@
 # Mohan Tyagi
 
-Software builder exploring robotics, automation, and product tools.
+Technical operations and plant IT. Noida.
 
-I use GitHub to ship in public — focused projects that I can grow over time.
+I work at the intersection of manufacturing operations, networks, and automation — keeping shop-floor systems reliable, then building the next layer on top.
 
 ## Currently
 
-- **[MOHAN](https://github.com/tyagimohan78/MOHAN)** — personal workspace for experiments and robotics-related work
-- Building software, automation, and connected products
+- Assistant Manager at **Speedex Overseas Private Limited**
+- Previously Senior Technical Manager at **Tokai Rubber Auto-Parts India Private Limited**
+- Building in public on **[MOHAN](https://github.com/tyagimohan78/MOHAN)** — robotics and automation experiments
 
 ## Focus
 
-| Area | Interest |
+| Area | What I work on |
 | --- | --- |
-| Software | Web apps, tools, and automation |
-| Robotics | Hardware + software systems |
-| Product | Turning ideas into working products |
+| Operations | Plant IT, goods receiving, and day-to-day technical reliability |
+| Networks | LAN, WAN, VLANs, DNS, and Windows infrastructure |
+| Automation | Robotics, software tools, and connected products |
 
 ## Contact
 
-GitHub: [@tyagimohan78](https://github.com/tyagimohan78)
-
-Open to collaboration on practical, well-scoped projects.
+- GitHub: [@tyagimohan78](https://github.com/tyagimohan78)
+- LinkedIn: [mohan-tyagi-3aa646193](https://www.linkedin.com/in/mohan-tyagi-3aa646193)
+- Email: tyagi.mohan78@gmail.com
