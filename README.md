@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mohan Tyagi
 
-<!--
-**tyagimohan78/tyagimohan78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software builder exploring robotics, automation, and product tools.
 
-Here are some ideas to get you started:
+I use GitHub to ship in public — focused projects that I can grow over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+
+- **[MOHAN](https://github.com/tyagimohan78/MOHAN)** — personal workspace for experiments and robotics-related work
+- Building software, automation, and connected products
+
+## Focus
+
+| Area | Interest |
+| --- | --- |
+| Software | Web apps, tools, and automation |
+| Robotics | Hardware + software systems |
+| Product | Turning ideas into working products |
+
+## Contact
+
+GitHub: [@tyagimohan78](https://github.com/tyagimohan78)
+
+Open to collaboration on practical, well-scoped projects.
