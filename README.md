@@ -41,3 +41,4 @@ I build and run the infrastructure that robotics, AI and business teams depend o
 - LinkedIn: [mohan-tyagi-3aa646193](https://www.linkedin.com/in/mohan-tyagi-3aa646193)
 - Hugging Face: [Mohantyagi6378](https://huggingface.co/Mohantyagi6378)
 - Email: tyagi.mohan78@gmail.com
+- X (Twitter): [@technic58595018](https://x.com/technic58595018)
