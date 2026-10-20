@@ -1,309 +1,309 @@
-Group,Verb,Example Sentence
-"Be family","be","I am tired"
-"Be family","am","I am ready"
-"Be family","is","She is here"
-"Be family","are","They are late"
-"Be family","was","He was busy"
-"Be family","were","We were home"
-"Be family","been","I have been there"
-"Be family","being","She is being kind"
-"Have family","have","I have a car"
-"Have family","has","She has a phone"
-"Have family","had","I had lunch"
-"Have family","having","I am having dinner"
-"Do family","do","I do my work"
-"Do family","does","She does yoga"
-"Do family","did","I did it"
-"Do family","done","I have done it"
-"Do family","make","I make tea"
-"Do family","made","She made food"
-"Do family","making","I am making coffee"
-"Movement","go","I go daily"
-"Movement","went","I went home"
-"Movement","gone","I have gone out"
-"Movement","come","Come here"
-"Movement","came","He came late"
-"Movement","run","I run fast"
-"Movement","ran","She ran away"
-"Movement","walk","I walk daily"
-"Movement","jump","He jumps high"
-"Movement","move","I move slowly"
-"Movement","arrive","I arrived late"
-"Movement","leave","I left early"
-"Movement","travel","I travel often"
-"Movement","drive","I drive a car"
-"Movement","fly","Birds fly"
-"Movement","swim","I swim daily"
-"Movement","climb","We climbed the hill"
-"Movement","fall","He fell down"
-"Movement","rise","The sun rises"
-"Movement","return","I returned home"
-"Senses","see","I see you"
-"Senses","saw","I saw him"
-"Senses","seen","I have seen it"
-"Senses","hear","I hear music"
-"Senses","heard","I heard a sound"
-"Senses","look","Look at this"
-"Senses","watch","I watch TV"
-"Senses","feel","I feel cold"
-"Senses","touch","Don't touch it"
-"Senses","smell","I smell flowers"
-"Senses","taste","It tastes sweet"
-"Senses","notice","I noticed him"
-"Senses","observe","She observes well"
-"Senses","listen","Listen carefully"
-"Senses","stare","He stared at me"
-"Speech","say","I say yes"
-"Speech","said","He said no"
-"Speech","tell","Tell me"
-"Speech","told","I told you"
-"Speech","talk","We talk daily"
-"Speech","speak","I speak English"
-"Speech","spoke","She spoke well"
-"Speech","spoken","I have spoken"
-"Speech","ask","I asked him"
-"Speech","answer","She answered"
-"Speech","shout","He shouted"
-"Speech","whisper","She whispered"
-"Speech","explain","I explained it"
-"Speech","describe","Describe it"
-"Speech","mention","He mentioned it"
-"Speech","announce","They announced it"
-"Speech","argue","We argued"
-"Speech","discuss","We discussed it"
-"Speech","complain","She complained"
-"Speech","promise","I promised"
-"Speech","admit","He admitted it"
-"Thinking","think","I think so"
-"Thinking","thought","I thought so"
-"Thinking","know","I know it"
-"Thinking","knew","I knew it"
-"Thinking","known","I have known"
-"Thinking","understand","I understand"
-"Thinking","understood","I understood"
-"Thinking","believe","I believe you"
-"Thinking","remember","I remember"
-"Thinking","forget","I forgot"
-"Thinking","learn","I learn English"
-"Thinking","learned","I learned it"
-"Thinking","decide","I decided"
-"Thinking","choose","I chose"
-"Thinking","prefer","I prefer tea"
-"Thinking","imagine","Imagine it"
-"Thinking","expect","I expect it"
-"Thinking","hope","I hope so"
-"Thinking","wish","I wish"
-"Thinking","doubt","I doubt it"
-"Thinking","realize","I realized"
-"Thinking","consider","Consider it"
-"Thinking","plan","I plan to go"
-"Thinking","mean","What do you mean?"
-"Thinking","wonder","I wonder why"
-"Giving-Taking","give","Give me"
-"Giving-Taking","gave","I gave it"
-"Giving-Taking","given","I have given"
-"Giving-Taking","take","Take this"
-"Giving-Taking","took","I took it"
-"Giving-Taking","taken","I have taken"
-"Giving-Taking","get","I get it"
-"Giving-Taking","got","I got it"
-"Giving-Taking","receive","I received it"
-"Giving-Taking","send","I sent it"
-"Giving-Taking","sent","I have sent"
-"Giving-Taking","bring","Bring it"
-"Giving-Taking","brought","I brought it"
-"Giving-Taking","buy","I buy milk"
-"Giving-Taking","bought","I bought it"
-"Giving-Taking","sell","I sell it"
-"Giving-Taking","sold","I sold it"
-"Giving-Taking","pay","I pay rent"
-"Giving-Taking","paid","I paid it"
-"Giving-Taking","lend","I lend money"
-"Giving-Taking","lent","I lent it"
-"Giving-Taking","borrow","I borrow it"
-"Giving-Taking","offer","I offered"
-"Giving-Taking","accept","I accepted"
-"Giving-Taking","share","We share"
-"Giving-Taking","keep","Keep it"
-"Giving-Taking","hold","Hold it"
-"Giving-Taking","catch","Catch it"
-"Giving-Taking","throw","Throw it"
-"Giving-Taking","drop","Drop it"
-"Giving-Taking","pick","Pick it up"
-"Giving-Taking","find","I found it"
-"Giving-Taking","found","I have found"
-"Giving-Taking","lose","I lost it"
-"Giving-Taking","lost","I have lost"
-"Giving-Taking","search","I searched"
-"Giving-Taking","win","I won"
-"Giving-Taking","beat","I beat him"
-"Giving-Taking","defeat","We defeated them"
-"Change","change","I change clothes"
-"Change","changed","I changed"
-"Change","become","I became"
-"Change","grow","Plants grow"
-"Change","grew","I grew"
-"Change","grown","I have grown"
-"Change","develop","It developed"
-"Change","improve","I improved"
-"Change","increase","It increased"
-"Change","decrease","It decreased"
-"Change","reduce","Reduce it"
-"Change","break","I break it"
-"Change","broke","I broke it"
-"Change","broken","It is broken"
-"Change","fix","Fix it"
-"Change","repair","Repair it"
-"Change","build","I build"
-"Change","built","I built"
-"Change","destroy","Destroy it"
-"Change","create","I create"
-"Change","created","I created"
-"Change","start","Start it"
-"Change","started","I started"
-"Change","stop","Stop it"
-"Change","begin","Begin now"
-"Change","began","I began"
-"Change","finish","Finish it"
-"Change","finished","I finished"
-"Change","open","Open it"
-"Change","opened","I opened"
-"Change","close","Close it"
-"Change","closed","I closed"
-"Change","turn","Turn it"
-"Change","turned","I turned"
-"Change","switch","Switch it"
-"Change","replace","Replace it"
-"Change","remove","Remove it"
-"Change","add","Add it"
-"Change","delete","Delete it"
-"Change","update","Update it"
-"Change","upgrade","Upgrade it"
-"Change","convert","Convert it"
-"Change","transform","Transform it"
-"Change","produce","Produce it"
-"Change","generate","Generate it"
-"Change","cause","It caused"
-"Change","affect","It affects"
-"Change","influence","Influence it"
-"Change","control","Control it"
-"Change","manage","Manage it"
-"Change","handle","Handle it"
-"Change","solve","Solve it"
-"Change","resolve","Resolve it"
-"Change","settle","Settle it"
-"Change","arrange","Arrange it"
-"Change","organize","Organize it"
-"Change","prepare","Prepare it"
-"Change","set","Set it"
-"Change","reset","Reset it"
-"Change","clear","Clear it"
-"Change","clean","Clean it"
-"Change","wash","Wash it"
-"Change","dry","Dry it"
-"Change","fill","Fill it"
-"Change","empty","Empty it"
-"Change","load","Load it"
-"Change","unload","Unload it"
-"Change","push","Push it"
-"Change","pull","Pull it"
-"Change","lift","Lift it"
-"Change","carry","Carry it"
-"Change","drag","Drag it"
-"Change","roll","Roll it"
-"Change","spin","Spin it"
-"Change","rotate","Rotate it"
-"Change","shake","Shake it"
-"Change","mix","Mix it"
-"Change","stir","Stir it"
-"Change","blend","Blend it"
-"Change","pour","Pour it"
-"Change","spill","Spill it"
-"Change","leak","It leaks"
-"Change","flow","It flows"
-"Change","float","It floats"
-"Change","sink","It sinks"
-"Daily Life","eat","I eat food"
-"Daily Life","ate","I ate food"
-"Daily Life","eaten","I have eaten"
-"Daily Life","drink","I drink water"
-"Daily Life","drank","I drank water"
-"Daily Life","drunk","I have drunk"
-"Daily Life","sleep","I sleep early"
-"Daily Life","slept","I slept early"
-"Daily Life","wake","I wake up"
-"Daily Life","woke","I woke up"
-"Daily Life","woken","I have woken"
-"Daily Life","cook","I cook dinner"
-"Daily Life","cooked","I cooked dinner"
-"Daily Life","dress","I dress up"
-"Daily Life","dressed","I dressed up"
-"Daily Life","wear","I wear a shirt"
-"Daily Life","wore","I wore a shirt"
-"Daily Life","worn","I have worn it"
-"Work-Business","work","I work daily"
-"Work-Business","worked","I worked yesterday"
-"Work-Business","job","I have a job"
-"Work-Business","hire","They hired me"
-"Work-Business","hired","I was hired"
-"Work-Business","fire","They fired him"
-"Work-Business","fired","He was fired"
-"Work-Business","meet","I meet clients"
-"Work-Business","met","I met him"
-"Work-Business","call","I call you"
-"Work-Business","called","I called you"
-"Work-Business","email","I email daily"
-"Work-Business","emailed","I emailed him"
-"Work-Business","write","I write code"
-"Work-Business","wrote","I wrote code"
-"Work-Business","written","I have written"
-"Work-Business","read","I read books"
-"Work-Business","report","I report daily"
-"Work-Business","reported","I reported it"
-"Work-Business","present","I present it"
-"Work-Business","presented","I presented it"
-"Work-Business","lead","I lead the team"
-"Work-Business","led","I led the team"
-"Work-Business","schedule","I schedule meetings"
-"Work-Business","scheduled","I scheduled it"
-"Work-Business","attend","I attend class"
-"Work-Business","attended","I attended"
-"Work-Business","join","I join today"
-"Work-Business","joined","I joined"
-"Work-Business","quit","I quit"
-"Work-Business","resigned","I resigned"
-"Work-Business","retire","I will retire"
-"Work-Business","retired","He retired"
-"Others","help","Help me"
-"Others","helped","I helped him"
-"Others","need","I need it"
-"Others","needed","I needed it"
-"Others","want","I want it"
-"Others","wanted","I wanted it"
-"Others","like","I like it"
-"Others","liked","I liked it"
-"Others","love","I love it"
-"Others","loved","I loved it"
-"Others","hate","I hate it"
-"Others","hated","I hated it"
-"Others","enjoy","I enjoy it"
-"Others","enjoyed","I enjoyed it"
-"Others","try","I try"
-"Others","tried","I tried"
-"Others","use","I use it"
-"Others","used","I used it"
-"Others","show","Show me"
-"Others","showed","I showed it"
-"Others","shown","I have shown"
-"Others","play","I play cricket"
-"Others","played","I played"
-"Others","sing","I sing"
-"Others","sang","I sang"
-"Others","sung","I have sung"
-"Others","dance","I dance"
-"Others","danced","I danced"
-"Others","draw","I draw"
-"Others","drew","I drew"
-"Others","drawn","I have drawn"
-"Others","paint","I paint"
-"Others","painted","I painted"
+Group,Verb,Example Sentence,Hindi Meaning
+Be family,be,I am tired,hona
+Be family,am,I am ready,hona
+Be family,is,She is here,hona
+Be family,are,They are late,hona
+Be family,was,He was busy,hona
+Be family,were,We were home,hona
+Be family,been,I have been there,hona
+Be family,being,She is being kind,hona
+Have family,have,I have a car,rakhna/paana
+Have family,has,She has a phone,rakhna/paana
+Have family,had,I had lunch,rakhna/paana
+Have family,having,I am having dinner,rakhna/paana
+Do family,do,I do my work,karna
+Do family,does,She does yoga,karna
+Do family,did,I did it,karna
+Do family,done,I have done it,karna
+Do family,make,I make tea,banana
+Do family,made,She made food,banana
+Do family,making,I am making coffee,banana
+Movement,go,I go daily,jaana
+Movement,went,I went home,jaana
+Movement,gone,I have gone out,jaana
+Movement,come,Come here,aana
+Movement,came,He came late,aana
+Movement,run,I run fast,daudna
+Movement,ran,She ran away,daudna
+Movement,walk,I walk daily,chalna
+Movement,jump,He jumps high,koodna
+Movement,move,I move slowly,hilaana/chalna
+Movement,arrive,I arrived late,pahunchna
+Movement,leave,I left early,chhodna
+Movement,travel,I travel often,safar karna
+Movement,drive,I drive a car,gaadi chalana
+Movement,fly,Birds fly,udna
+Movement,swim,I swim daily,teraana
+Movement,climb,We climbed the hill,chadna
+Movement,fall,He fell down,girna
+Movement,rise,The sun rises,uthna
+Movement,return,I returned home,wapas aana
+Senses,see,I see you,dekhna
+Senses,saw,I saw him,dekhna
+Senses,seen,I have seen it,dekhna
+Senses,hear,I hear music,sunna
+Senses,heard,I heard a sound,sunna
+Senses,look,Look at this,dekhna
+Senses,watch,I watch TV,dekhna
+Senses,feel,I feel cold,mehsoos karna
+Senses,touch,Don't touch it,chhoona
+Senses,smell,I smell flowers,sunghna
+Senses,taste,It tastes sweet,swaad lena
+Senses,notice,I noticed him,dhyan dena
+Senses,observe,She observes well,dekhna/jaanchna
+Senses,listen,Listen carefully,sunna
+Senses,stare,He stared at me,ghoorna
+Speech,say,I say yes,kehna
+Speech,said,He said no,kehna
+Speech,tell,Tell me,batana
+Speech,told,I told you,batana
+Speech,talk,We talk daily,baat karna
+Speech,speak,I speak English,bolna
+Speech,spoke,She spoke well,bolna
+Speech,spoken,I have spoken,bolna
+Speech,ask,I asked him,poochna
+Speech,answer,She answered,jawab dena
+Speech,shout,He shouted,cheekhna
+Speech,whisper,She whispered,phusphusaana
+Speech,explain,I explained it,samjhana
+Speech,describe,Describe it,varnan karna
+Speech,mention,He mentioned it,zikaar karna
+Speech,announce,They announced it,ghoshna karna
+Speech,argue,We argued,vivaad karna
+Speech,discuss,We discussed it,charcha karna
+Speech,complain,She complained,shikayat karna
+Speech,promise,I promised,vaada karna
+Speech,admit,He admitted it,maanna
+Thinking,think,I think so,sochna
+Thinking,thought,I thought so,sochna
+Thinking,know,I know it,jaanna
+Thinking,knew,I knew it,jaanna
+Thinking,known,I have known,jaanna
+Thinking,understand,I understand,samajhna
+Thinking,understood,I understood,samajhna
+Thinking,believe,I believe you,vishwas karna
+Thinking,remember,I remember,yaad rakhna
+Thinking,forget,I forgot,bhoolna
+Thinking,learn,I learn English,seekhna
+Thinking,learned,I learned it,seekhna
+Thinking,decide,I decided,faisla karna
+Thinking,choose,I chose,chuna
+Thinking,prefer,I prefer tea,pasand karna
+Thinking,imagine,Imagine it,kalpna karna
+Thinking,expect,I expect it,umeed karna
+Thinking,hope,I hope so,aasha karna
+Thinking,wish,I wish,ichha karna
+Thinking,doubt,I doubt it,shak karna
+Thinking,realize,I realized,samajh aana
+Thinking,consider,Consider it,sochna
+Thinking,plan,I plan to go,yojana banaana
+Thinking,mean,What do you mean?,matlab hona
+Thinking,wonder,I wonder why,pareshan hona
+Giving-Taking,give,Give me,dena
+Giving-Taking,gave,I gave it,dena
+Giving-Taking,given,I have given,dena
+Giving-Taking,take,Take this,lena
+Giving-Taking,took,I took it,lena
+Giving-Taking,taken,I have taken,lena
+Giving-Taking,get,I get it,paana
+Giving-Taking,got,I got it,paana
+Giving-Taking,receive,I received it,paana
+Giving-Taking,send,I sent it,bhejna
+Giving-Taking,sent,I have sent,bhejna
+Giving-Taking,bring,Bring it,laana
+Giving-Taking,brought,I brought it,laana
+Giving-Taking,buy,I buy milk,kharidna
+Giving-Taking,bought,I bought it,kharidna
+Giving-Taking,sell,I sell it,bechna
+Giving-Taking,sold,I sold it,bechna
+Giving-Taking,pay,I pay rent,bhugna
+Giving-Taking,paid,I paid it,bhugna
+Giving-Taking,lend,I lend money,udaar dena
+Giving-Taking,lent,I lent it,udaar dena
+Giving-Taking,borrow,I borrow it,udaar lena
+Giving-Taking,offer,I offered,prastaav dena
+Giving-Taking,accept,I accepted,sweekaar karna
+Giving-Taking,share,We share,baantna
+Giving-Taking,keep,Keep it,rakhna
+Giving-Taking,hold,Hold it,pakadna
+Giving-Taking,catch,Catch it,pakadna
+Giving-Taking,throw,Throw it,phenkna
+Giving-Taking,drop,Drop it,giraana
+Giving-Taking,pick,Pick it up,uthaana
+Giving-Taking,find,I found it,paana
+Giving-Taking,found,I have found,paana
+Giving-Taking,lose,I lost it,kho dena
+Giving-Taking,lost,I have lost,kho dena
+Giving-Taking,search,I searched,khojna
+Giving-Taking,win,I won,jeetna
+Giving-Taking,beat,I beat him,haarana
+Giving-Taking,defeat,We defeated them,haarana
+Change,change,I change clothes,badalna
+Change,changed,I changed,badalna
+Change,become,I became,banna
+Change,grow,Plants grow,badhna
+Change,grew,I grew,badhna
+Change,grown,I have grown,badhna
+Change,develop,It developed,vikas karna
+Change,improve,I improved,sudhaarna
+Change,increase,It increased,badhana
+Change,decrease,It decreased,ghatana
+Change,reduce,Reduce it,kam karna
+Change,break,I break it,todna
+Change,broke,I broke it,todna
+Change,broken,It is broken,tuta hua
+Change,fix,Fix it,theek karna
+Change,repair,Repair it,marammat karna
+Change,build,I build,banana
+Change,built,I built,banana
+Change,destroy,Destroy it,barbaad karna
+Change,create,I create,banana
+Change,created,I created,banana
+Change,start,Start it,shuru karna
+Change,started,I started,shuru karna
+Change,stop,Stop it,rokna
+Change,begin,Begin now,shuru karna
+Change,began,I began,shuru karna
+Change,finish,Finish it,khatam karna
+Change,finished,I finished,khatam karna
+Change,open,Open it,kholna
+Change,opened,I opened,kholna
+Change,close,Close it,band karna
+Change,closed,I closed,band karna
+Change,turn,Turn it,ghumana
+Change,turned,I turned,ghumana
+Change,switch,Switch it,badalna
+Change,replace,Replace it,badalna
+Change,remove,Remove it,hatana
+Change,add,Add it,jodna
+Change,delete,Delete it,mitana
+Change,update,Update it,update karna
+Change,upgrade,Upgrade it,sudhaarna
+Change,convert,Convert it,badalna
+Change,transform,Transform it,roop badalna
+Change,produce,Produce it,paida karna
+Change,generate,Generate it,paida karna
+Change,cause,It caused,karna
+Change,affect,It affects,prabhav daalna
+Change,influence,Influence it,prabhav daalna
+Change,control,Control it,niyantran karna
+Change,manage,Manage it,prabandhan karna
+Change,handle,Handle it,saambhalna
+Change,solve,Solve it,suljhana
+Change,resolve,Resolve it,suljhana
+Change,settle,Settle it,nivaarna karna
+Change,arrange,Arrange it,vyavasthit karna
+Change,organize,Organize it,vyavasthit karna
+Change,prepare,Prepare it,taiyaar karna
+Change,set,Set it,set karna
+Change,reset,Reset it,dobara set karna
+Change,clear,Clear it,saaf karna
+Change,clean,Clean it,saaf karna
+Change,wash,Wash it,dhona
+Change,dry,Dry it,sookhana
+Change,fill,Fill it,bharna
+Change,empty,Empty it,khaali karna
+Change,load,Load it,bharna
+Change,unload,Unload it,utaarna
+Change,push,Push it,dhakelna
+Change,pull,Pull it,kheenchna
+Change,lift,Lift it,uthaana
+Change,carry,Carry it,le jaana
+Change,drag,Drag it,ghasitna
+Change,roll,Roll it,ghumana
+Change,spin,Spin it,ghumana
+Change,rotate,Rotate it,ghumana
+Change,shake,Shake it,hilaana
+Change,mix,Mix it,milana
+Change,stir,Stir it,chhalna
+Change,blend,Blend it,milana
+Change,pour,Pour it,daalna
+Change,spill,Spill it,bheegna
+Change,leak,It leaks,reezna
+Change,flow,It flows,behena
+Change,float,It floats,tairna
+Change,sink,It sinks,doobna
+Daily Life,eat,I eat food,khaana
+Daily Life,ate,I ate food,khaana
+Daily Life,eaten,I have eaten,khaana
+Daily Life,drink,I drink water,peena
+Daily Life,drank,I drank water,peena
+Daily Life,drunk,I have drunk,peena
+Daily Life,sleep,I sleep early,sona
+Daily Life,slept,I slept early,sona
+Daily Life,wake,I wake up,jaagna
+Daily Life,woke,I woke up,jaagna
+Daily Life,woken,I have woken,jaagna
+Daily Life,cook,I cook dinner,pakana
+Daily Life,cooked,I cooked dinner,pakana
+Daily Life,dress,I dress up,kapde pehenna
+Daily Life,dressed,I dressed up,kapde pehenna
+Daily Life,wear,I wear a shirt,pehenna
+Daily Life,wore,I wore a shirt,pehenna
+Daily Life,worn,I have worn it,pehenna
+Work-Business,work,I work daily,kaam karna
+Work-Business,worked,I worked yesterday,kaam karna
+Work-Business,job,I have a job,naukri
+Work-Business,hire,They hired me,naukri dena
+Work-Business,hired,I was hired,naukri paana
+Work-Business,fire,They fired him,naukri se nikaalna
+Work-Business,fired,He was fired,naukri se nikaalna
+Work-Business,meet,I meet clients,milaana
+Work-Business,met,I met him,milaana
+Work-Business,call,I call you,phone karna
+Work-Business,called,I called you,phone karna
+Work-Business,email,I email daily,email karna
+Work-Business,emailed,I emailed him,email karna
+Work-Business,write,I write code,likhna
+Work-Business,wrote,I wrote code,likhna
+Work-Business,written,I have written,likhna
+Work-Business,read,I read books,padhna
+Work-Business,report,I report daily,report dena
+Work-Business,reported,I reported it,report dena
+Work-Business,present,I present it,prastut karna
+Work-Business,presented,I presented it,prastut karna
+Work-Business,lead,I lead the team,netaagi karna
+Work-Business,led,I led the team,netaagi karna
+Work-Business,schedule,I schedule meetings,schedule karna
+Work-Business,scheduled,I scheduled it,schedule karna
+Work-Business,attend,I attend class,hazir hona
+Work-Business,attended,I attended,hazir hona
+Work-Business,join,I join today,join karna
+Work-Business,joined,I joined,join karna
+Work-Business,quit,I quit,chhodna
+Work-Business,resigned,I resigned,istifa dena
+Work-Business,retire,I will retire,seva-nivrit hona
+Work-Business,retired,He retired,seva-nivrit hona
+Others,help,Help me,madad karna
+Others,helped,I helped him,madad karna
+Others,need,I need it,zaroorat hona
+Others,needed,I needed it,zaroorat hona
+Others,want,I want it,chaahna
+Others,wanted,I wanted it,chaahna
+Others,like,I like it,pasand aana
+Others,liked,I liked it,pasand aana
+Others,love,I love it,pyaar karna
+Others,loved,I loved it,pyaar karna
+Others,hate,I hate it,nafrat karna
+Others,hated,I hated it,nafrat karna
+Others,enjoy,I enjoy it,anand lena
+Others,enjoyed,I enjoyed it,anand lena
+Others,try,I try,koshish karna
+Others,tried,I tried,koshish karna
+Others,use,I use it,use karna
+Others,used,I used it,use karna
+Others,show,Show me,dikhna
+Others,showed,I showed it,dikhna
+Others,shown,I have shown,dikhna
+Others,play,I play cricket,khelna
+Others,played,I played,khelna
+Others,sing,I sing,gaana
+Others,sang,I sang,gaana
+Others,sung,I have sung,gaana
+Others,dance,I dance,naachna
+Others,danced,I danced,naachna
+Others,draw,I draw,banaana
+Others,drew,I drew,banaana
+Others,drawn,I have drawn,banaana
+Others,paint,I paint,rangna
+Others,painted,I painted,rangna
